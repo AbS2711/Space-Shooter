@@ -1,0 +1,27 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.idb
+*.ilk
+*.log
+*.tlog
+
+# Ignore libraries/binaries
+*.dll
+*.lib
+
+# Ignore other temp/cache files
+*.db
+*.opendb
+*.cache
