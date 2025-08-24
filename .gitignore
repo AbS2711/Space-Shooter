@@ -25,3 +25,5 @@ Release/
 *.db
 *.opendb
 *.cache
+# Visual Studio cache and settings
+.vs/
