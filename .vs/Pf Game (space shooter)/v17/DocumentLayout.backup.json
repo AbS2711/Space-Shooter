@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Abdullah\\FAST 2024 Semester 1\\Programming Fundamentals Course\\Pf Game (space shooter)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A01983E-F6F5-407C-84A9-4946EB8994F2}|Pf Game (space shooter).vcxproj|C:\\Users\\DELL\\Desktop\\Abdullah\\FAST 2024 Semester 1\\Programming Fundamentals Course\\Pf Game (space shooter)\\24L_0535-24L_0565-24L_0526.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A01983E-F6F5-407C-84A9-4946EB8994F2}|Pf Game (space shooter).vcxproj|solutionrelative:24L_0535-24L_0565-24L_0526.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "24L_0535-24L_0565-24L_0526.cpp",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Abdullah\\FAST 2024 Semester 1\\Programming Fundamentals Course\\Pf Game (space shooter)\\24L_0535-24L_0565-24L_0526.cpp",
+              "RelativeDocumentMoniker": "24L_0535-24L_0565-24L_0526.cpp",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Abdullah\\FAST 2024 Semester 1\\Programming Fundamentals Course\\Pf Game (space shooter)\\24L_0535-24L_0565-24L_0526.cpp",
+              "RelativeToolTip": "24L_0535-24L_0565-24L_0526.cpp",
+              "ViewState": "AgIAADYCAAAAAAAAAAAAAEoBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T07:24:23.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

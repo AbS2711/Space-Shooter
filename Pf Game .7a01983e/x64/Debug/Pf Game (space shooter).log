@@ -1,0 +1,13 @@
+﻿  game.cpp
+C:\Users\laptop zone\Desktop\Uni stuff\FAST 2024 Semester 1\Programming Fundamentals Course\Pf Game (space shooter)\game.cpp(134,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\laptop zone\Desktop\Uni stuff\FAST 2024 Semester 1\Programming Fundamentals Course\Pf Game (space shooter)\game.cpp(170,27): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\laptop zone\Desktop\Uni stuff\FAST 2024 Semester 1\Programming Fundamentals Course\Pf Game (space shooter)\game.cpp(170,27): warning C4244:         with
+C:\Users\laptop zone\Desktop\Uni stuff\FAST 2024 Semester 1\Programming Fundamentals Course\Pf Game (space shooter)\game.cpp(170,27): warning C4244:         [
+C:\Users\laptop zone\Desktop\Uni stuff\FAST 2024 Semester 1\Programming Fundamentals Course\Pf Game (space shooter)\game.cpp(170,27): warning C4244:             T=unsigned int
+C:\Users\laptop zone\Desktop\Uni stuff\FAST 2024 Semester 1\Programming Fundamentals Course\Pf Game (space shooter)\game.cpp(170,27): warning C4244:         ]
+C:\Users\laptop zone\Desktop\Uni stuff\FAST 2024 Semester 1\Programming Fundamentals Course\Pf Game (space shooter)\game.cpp(171,28): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\laptop zone\Desktop\Uni stuff\FAST 2024 Semester 1\Programming Fundamentals Course\Pf Game (space shooter)\game.cpp(171,28): warning C4244:         with
+C:\Users\laptop zone\Desktop\Uni stuff\FAST 2024 Semester 1\Programming Fundamentals Course\Pf Game (space shooter)\game.cpp(171,28): warning C4244:         [
+C:\Users\laptop zone\Desktop\Uni stuff\FAST 2024 Semester 1\Programming Fundamentals Course\Pf Game (space shooter)\game.cpp(171,28): warning C4244:             T=unsigned int
+C:\Users\laptop zone\Desktop\Uni stuff\FAST 2024 Semester 1\Programming Fundamentals Course\Pf Game (space shooter)\game.cpp(171,28): warning C4244:         ]
+  Pf Game (space shooter).vcxproj -> C:\Users\laptop zone\Desktop\Uni stuff\FAST 2024 Semester 1\Programming Fundamentals Course\Pf Game (space shooter)\x64\Debug\Pf Game (space shooter).exe
